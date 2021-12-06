@@ -1,4 +1,4 @@
-{"tblData1List":[
+[
       {
         "sn": 1,
         "agencyName": "Agency A",
@@ -15,15 +15,14 @@
         "code": "121C"
       },
       {
-        "sn": 4,
+        "sn": 3,
         "agencyName": "Agency C",
         "code": "121C"
       },
       {
-        "sn": 5,
+        "sn": 3,
         "agencyName": "Agency C",
         "code": "121C"
       }
     
 ]
- }
