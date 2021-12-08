@@ -1,0 +1,180 @@
+{
+  "sectionAdata": {
+    "projectTitle": "Project AAA",
+    "ministry": "Ministry AAA",
+    "division": "Division AAA",
+    "agency": "Acency AAA",
+    "sectorName": "Sector AAA",
+    "subsectorName": "SubSector AAAA",
+    "atblData1List": [
+      {
+        "sn": 1,
+        "agencyName": "Agency A",
+        "code": "001A"
+      },
+      {
+        "sn": 2,
+        "agencyName": "Agency B",
+        "code": "021B"
+      },
+      {
+        "sn": 3,
+        "agencyName": "Agency C",
+        "code": "121C"
+      }
+    ],
+    "atblData2List": [
+      {
+        "divMetroCity": "Metro A",
+        "district": "District A",
+        "upazilla": "Upazilla A"
+      },
+      {
+        "divMetroCity": "Metro B",
+        "district": "District B",
+        "upazilla": "Upazilla B"
+      },
+      {
+        "divMetroCity": "Metro C",
+        "district": "District C",
+        "upazilla": "Upazilla C"
+      },
+      {
+        "divMetroCity": "Metro D",
+        "district": "District D",
+        "upazilla": "Upazilla D"
+      },
+      {
+        "divMetroCity": "Metro E",
+        "district": "District E",
+        "upazilla": "Upazilla E"
+      }
+    ]
+  },
+  "sectionBdata": {
+    "projectTitle": "Project BBBB",
+    "projectObjective": "The e-PMIS is fully digital transformation of Project Management, Monitoring and Evaluation functionality of IMED. The e-PMIS is single web portal where all the stakeholders related to Project Management can perform project related activities using a dedicated secured web-based dashboard.",
+    "btblData1List": [
+      {
+        "sn": 1,
+        "componentName": "Component1",
+        "isPhysical": "yes",
+        "unit": 278.46269950064436,
+        "quantity": 227.4130035468246,
+        "cost": 2042.1511131734414
+      },
+      {
+        "sn": 2,
+        "componentName": "Component2",
+        "isPhysical": "no",
+        "unit": 369.80652841189345,
+        "quantity": 235.7321121753783,
+        "cost": 2239.1477149245243
+      },
+      {
+        "sn": 3,
+        "componentName": "Component3",
+        "isPhysical": "no",
+        "unit": 375.88862629540375,
+        "quantity": 217.65315577999564,
+        "cost": 2590.1110368064183
+      },
+      {
+        "sn": 4,
+        "componentName": "Component4",
+        "isPhysical": "no",
+        "unit": 206.19327990210317,
+        "quantity": 230.29159944487415,
+        "cost": 2206.2397550760193
+      },
+      {
+        "sn": 5,
+        "componentName": "Component5",
+        "isPhysical": "yes",
+        "unit": 362.6779266838554,
+        "quantity": 277.8310627655158,
+        "cost": 2633.4201443956417
+      },
+      {
+        "sn": 6,
+        "componentName": "Component6",
+        "isPhysical": "no",
+        "unit": 271.6676415299585,
+        "quantity": 296.5136106924105,
+        "cost": 2530.9494343112265
+      },
+      {
+        "sn": 7,
+        "componentName": "Component7",
+        "isPhysical": "yes",
+        "unit": 211.79708708145773,
+        "quantity": 228.48969214194602,
+        "cost": 2460.024243570327
+      },
+      {
+        "sn": 8,
+        "componentName": "Component8",
+        "isPhysical": "no",
+        "unit": 272.5794148907737,
+        "quantity": 202.62161840376382,
+        "cost": 2983.6846995170836
+      },
+      {
+        "sn": 9,
+        "componentName": "Component9",
+        "isPhysical": "no",
+        "unit": 107.38083436244992,
+        "quantity": 212.3070773955008,
+        "cost": 2351.194065343852
+      },
+      {
+        "sn": 10,
+        "componentName": "Component10",
+        "isPhysical": "no",
+        "unit": 233.1537420158487,
+        "quantity": 230.4868988093504,
+        "cost": 2142.372561947421
+      },
+      {
+        "sn": 11,
+        "componentName": "Component11",
+        "isPhysical": "yes",
+        "unit": 377.23052797039026,
+        "quantity": 230.2238911723744,
+        "cost": 2381.1934627001724
+      },
+      {
+        "sn": 12,
+        "componentName": "Component12",
+        "isPhysical": "yes",
+        "unit": 278.80439602424644,
+        "quantity": 285.5872644795613,
+        "cost": 2792.9880578940983
+      },
+      {
+        "sn": 13,
+        "componentName": "Component13",
+        "isPhysical": "yes",
+        "unit": 119.42277957071832,
+        "quantity": 212.04976744248316,
+        "cost": 2075.8956680991837
+      },
+      {
+        "sn": 14,
+        "componentName": "Component14",
+        "isPhysical": "no",
+        "unit": 182.89310952517081,
+        "quantity": 268.20238385087004,
+        "cost": 2284.733967575354
+      },
+      {
+        "sn": 15,
+        "componentName": "Component15",
+        "isPhysical": "no",
+        "unit": 130.44996229261292,
+        "quantity": 281.314015611385,
+        "cost": 2684.2531770669457
+      }
+    ]
+  }
+}
