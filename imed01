@@ -58,122 +58,202 @@
       {
         "sn": 1,
         "componentName": "Component1",
-        "isPhysical": "yes",
-        "unit": 278.46269950064436,
-        "quantity": 227.4130035468246,
-        "cost": 2042.1511131734414
+        "isPhysical": "no",
+        "unit": 222.30869094199232,
+        "quantity": 209.07966187248596,
+        "cost": 2999.2169955376676
       },
       {
         "sn": 2,
         "componentName": "Component2",
         "isPhysical": "no",
-        "unit": 369.80652841189345,
-        "quantity": 235.7321121753783,
-        "cost": 2239.1477149245243
+        "unit": 207.9394965499511,
+        "quantity": 292.5004755059572,
+        "cost": 2036.0079202909772
       },
       {
         "sn": 3,
         "componentName": "Component3",
         "isPhysical": "no",
-        "unit": 375.88862629540375,
-        "quantity": 217.65315577999564,
-        "cost": 2590.1110368064183
+        "unit": 367.6977685601947,
+        "quantity": 251.52975724030162,
+        "cost": 2689.6039377465518
       },
       {
         "sn": 4,
         "componentName": "Component4",
-        "isPhysical": "no",
-        "unit": 206.19327990210317,
-        "quantity": 230.29159944487415,
-        "cost": 2206.2397550760193
+        "isPhysical": "yes",
+        "unit": 224.54504115902216,
+        "quantity": 274.6257599994511,
+        "cost": 2358.60456448291
       },
       {
         "sn": 5,
         "componentName": "Component5",
-        "isPhysical": "yes",
-        "unit": 362.6779266838554,
-        "quantity": 277.8310627655158,
-        "cost": 2633.4201443956417
+        "isPhysical": "no",
+        "unit": 139.22409052009317,
+        "quantity": 218.89898888271645,
+        "cost": 2654.811138233944
       },
       {
         "sn": 6,
         "componentName": "Component6",
         "isPhysical": "no",
-        "unit": 271.6676415299585,
-        "quantity": 296.5136106924105,
-        "cost": 2530.9494343112265
+        "unit": 115.72905726059179,
+        "quantity": 288.1714652983523,
+        "cost": 2370.2984560762015
       },
       {
         "sn": 7,
         "componentName": "Component7",
         "isPhysical": "yes",
-        "unit": 211.79708708145773,
-        "quantity": 228.48969214194602,
-        "cost": 2460.024243570327
+        "unit": 163.27539118276613,
+        "quantity": 201.66261605028265,
+        "cost": 2643.9423812444147
       },
       {
         "sn": 8,
         "componentName": "Component8",
         "isPhysical": "no",
-        "unit": 272.5794148907737,
-        "quantity": 202.62161840376382,
-        "cost": 2983.6846995170836
+        "unit": 333.04038772688796,
+        "quantity": 250.59488150836106,
+        "cost": 2188.2743890888564
       },
       {
         "sn": 9,
         "componentName": "Component9",
         "isPhysical": "no",
-        "unit": 107.38083436244992,
-        "quantity": 212.3070773955008,
-        "cost": 2351.194065343852
+        "unit": 130.269462611777,
+        "quantity": 271.35978380853123,
+        "cost": 2852.571799802892
       },
       {
         "sn": 10,
         "componentName": "Component10",
-        "isPhysical": "no",
-        "unit": 233.1537420158487,
-        "quantity": 230.4868988093504,
-        "cost": 2142.372561947421
+        "isPhysical": "yes",
+        "unit": 244.0424955450572,
+        "quantity": 273.3578415879623,
+        "cost": 2244.382642705578
       },
       {
         "sn": 11,
         "componentName": "Component11",
         "isPhysical": "yes",
-        "unit": 377.23052797039026,
-        "quantity": 230.2238911723744,
-        "cost": 2381.1934627001724
+        "unit": 338.0687265798065,
+        "quantity": 247.22342464653255,
+        "cost": 2609.222556638374
       },
       {
         "sn": 12,
         "componentName": "Component12",
         "isPhysical": "yes",
-        "unit": 278.80439602424644,
-        "quantity": 285.5872644795613,
-        "cost": 2792.9880578940983
+        "unit": 106.32798849115011,
+        "quantity": 244.86824026668853,
+        "cost": 2676.9702972174487
       },
       {
         "sn": 13,
         "componentName": "Component13",
-        "isPhysical": "yes",
-        "unit": 119.42277957071832,
-        "quantity": 212.04976744248316,
-        "cost": 2075.8956680991837
+        "isPhysical": "no",
+        "unit": 117.20025063578649,
+        "quantity": 266.62482643380946,
+        "cost": 2723.5275641167054
       },
       {
         "sn": 14,
         "componentName": "Component14",
-        "isPhysical": "no",
-        "unit": 182.89310952517081,
-        "quantity": 268.20238385087004,
-        "cost": 2284.733967575354
+        "isPhysical": "yes",
+        "unit": 148.92456990220018,
+        "quantity": 212.74408561016588,
+        "cost": 2667.597935538141
       },
       {
         "sn": 15,
         "componentName": "Component15",
         "isPhysical": "no",
-        "unit": 130.44996229261292,
-        "quantity": 281.314015611385,
-        "cost": 2684.2531770669457
+        "unit": 357.8030574756446,
+        "quantity": 256.5985483791201,
+        "cost": 2624.9786131484125
+      },
+      {
+        "sn": 16,
+        "componentName": "Component16",
+        "isPhysical": "yes",
+        "unit": 118.51418711720206,
+        "quantity": 275.16567939004824,
+        "cost": 2976.547826453805
+      },
+      {
+        "sn": 17,
+        "componentName": "Component17",
+        "isPhysical": "no",
+        "unit": 333.22461821049217,
+        "quantity": 228.7132701596076,
+        "cost": 2671.170091047772
+      },
+      {
+        "sn": 18,
+        "componentName": "Component18",
+        "isPhysical": "no",
+        "unit": 322.887288856184,
+        "quantity": 216.0815362005167,
+        "cost": 2181.0298086983685
+      },
+      {
+        "sn": 19,
+        "componentName": "Component19",
+        "isPhysical": "no",
+        "unit": 390.18834077740513,
+        "quantity": 244.55422383633703,
+        "cost": 2254.4437253643373
+      },
+      {
+        "sn": 20,
+        "componentName": "Component20",
+        "isPhysical": "no",
+        "unit": 179.05409498345742,
+        "quantity": 244.03372763147468,
+        "cost": 2369.9911582759123
+      },
+      {
+        "sn": 21,
+        "componentName": "Component21",
+        "isPhysical": "no",
+        "unit": 250.4540491398154,
+        "quantity": 224.08280639070333,
+        "cost": 2585.840168584647
+      },
+      {
+        "sn": 22,
+        "componentName": "Component22",
+        "isPhysical": "no",
+        "unit": 248.4346759303545,
+        "quantity": 219.36819363983216,
+        "cost": 2299.4368592875344
+      },
+      {
+        "sn": 23,
+        "componentName": "Component23",
+        "isPhysical": "no",
+        "unit": 143.89319970261187,
+        "quantity": 294.13903218348554,
+        "cost": 2285.264270507272
+      },
+      {
+        "sn": 24,
+        "componentName": "Component24",
+        "isPhysical": "no",
+        "unit": 316.5498100435888,
+        "quantity": 279.5957215851123,
+        "cost": 2262.1661509024316
+      },
+      {
+        "sn": 25,
+        "componentName": "Component25",
+        "isPhysical": "no",
+        "unit": 367.9007881206596,
+        "quantity": 299.3524268963223,
+        "cost": 2156.7698159360284
       }
     ]
   }
