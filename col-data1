@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "fruits",
+    "data": [
+      {
+        "id": 1.1,
+        "title": "apple",
+        "price": 11
+      },
+      {
+        "id": 1.2,
+        "title": "banana",
+        "price": 13
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "veg",
+    "data": [
+      {
+        "id": 2.1,
+        "title": "potato",
+        "price": 41
+      },
+      {
+        "id": 2.2,
+        "title": "tomato",
+        "price": 33
+      }
+    ]
+  }
+]
