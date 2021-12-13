@@ -35,6 +35,10 @@
     "expenditure_rpa_gob": 0
   },
   {
+    "description": "Sub Total-Administrative expenses",
+    "uid": 1
+  },
+  {
     "uid": 2,
     "economic": 3221,
     "description": "Fees, charges and commissions"
@@ -70,7 +74,11 @@
     "expenditure_rpa_gob": 0
   },
   {
-    "uid": 3,
+    "description": "Sub Total-Fees Charges commisison",
+    "uid": 2
+  },
+  {
+    "uid": 2,
     "economic": 3243,
     "description": "Petrol, oil and lubricants"
   },
@@ -88,5 +96,9 @@
     "actual_rpa_gob": 0,
     "expenditure_gob": 41,
     "expenditure_rpa_gob": 0
+  },
+  {
+    "description": "Petrol expenses",
+    "uid": 3
   }
 ]
