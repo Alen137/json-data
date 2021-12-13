@@ -35,7 +35,7 @@
     "expenditure_rpa_gob": 0
   },
   {
-    "sub-description": "Sub Total-Administrative expenses",
+    "description": "Sub Total-Administrative expenses",
     "uid": 1
   },
   {
@@ -74,7 +74,7 @@
     "expenditure_rpa_gob": 0
   },
   {
-    "sub-description": "Sub Total-Fees Charges commisison",
+    "description": "Sub Total-Fees Charges commisison",
     "uid": 2
   },
   {
@@ -98,7 +98,7 @@
     "expenditure_rpa_gob": 0
   },
   {
-    "sub-description": "Petrol expenses",
+    "description": "Petrol expenses",
     "uid": 3
   }
 ]
