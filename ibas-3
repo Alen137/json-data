@@ -1,0 +1,219 @@
+[
+  {
+    "header": "Use of goods and services",
+    "subheader": [
+      {
+        "eco": 3211,
+        "desc": "Administrative expenses",
+        "subdata": [
+          {
+            "uid": 1,
+            "economic": 3211106,
+            "description": "Entertainment expenses",
+            "estimation_gob": 3000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 3000,
+            "description_rpa_gob": 0,
+            "actual_gob": 753,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 25,
+            "expenditure_rpa_gob": 0
+          },
+          {
+            "uid": 1,
+            "economic": 3211125,
+            "description": " Advertising expenses",
+            "estimation_gob": 6000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 6000,
+            "description_rpa_gob": 0,
+            "actual_gob": 0,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 0,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      },
+      {
+        "eco": 3221,
+        "desc": "Fees,chaeges and commissions",
+        "subdata": [
+          {
+            "uid": 2,
+            "economic": 3221109,
+            "description": "Management charges",
+            "estimation_gob": 330,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 330,
+            "description_rpa_gob": 0,
+            "actual_gob": 60,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 18,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      },
+      {
+        "eco": 3243,
+        "desc": "Petrol, oil and lubricants",
+        "subdata": [
+          {
+            "uid": 3,
+            "economic": 3243101,
+            "description": "Petrol, oil and lubricants",
+            "estimation_gob": 3000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 3000,
+            "description_rpa_gob": 0,
+            "actual_gob": 1237,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 41,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      },
+      {
+        "eco": 3255,
+        "desc": "Printing and stationery",
+        "subdata": [
+          {
+            "uid": 4,
+            "economic": 3255101,
+            "description": "Computer consumables",
+            "estimation_gob": 3000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 3000,
+            "description_rpa_gob": 0,
+            "actual_gob": 333,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 11,
+            "expenditure_rpa_gob": 0
+          },
+          {
+            "uid": 4,
+            "economic": 3255105,
+            "description": "Other stationery",
+            "estimation_gob": 4000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 4000,
+            "description_rpa_gob": 0,
+            "actual_gob": 613,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 15,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      },
+      {
+        "eco": 3257,
+        "desc": "Professional services, honorariums and special expenses",
+        "subdata": [
+          {
+            "uid": 5,
+            "economic": 3257101,
+            "description": "Consultancy",
+            "estimation_gob": 242920,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 242920,
+            "description_rpa_gob": 0,
+            "actual_gob": 0,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 0,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      },
+      {
+        "eco": 3258,
+        "desc": "Repairs and maintenance",
+        "subdata": [
+          {
+            "uid": 6,
+            "economic": 3258101,
+            "description": "Motor vehicle",
+            "estimation_gob": 1000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 1000,
+            "description_rpa_gob": 0,
+            "actual_gob": 169,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 16,
+            "expenditure_rpa_gob": 0
+          },
+          {
+            "uid": 6,
+            "economic": 3258103,
+            "description": "Computer",
+            "estimation_gob": 1000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 1000,
+            "description_rpa_gob": 0,
+            "actual_gob": 0,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 0,
+            "expenditure_rpa_gob": 0
+          },
+          {
+            "uid": 6,
+            "economic": 3258105,
+            "description": "Other Machineries and equipment",
+            "estimation_gob": 2000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 2000,
+            "description_rpa_gob": 0,
+            "actual_gob": 208,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 10,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "header": "Compensation of employees",
+    "subheader": [
+      {
+        "eco": 3111,
+        "desc": "Wages and salaries in cash",
+        "subdata": [
+          {
+            "uid": 7,
+            "economic": 3111332,
+            "description": "Honorarium allowance",
+            "estimation_gob": 55000,
+            "estimation_rpa_gob": 0,
+            "withdrawl_gob": 0,
+            "withdrawl_rpa_gob": 0,
+            "distribution_gob": 55000,
+            "description_rpa_gob": 0,
+            "actual_gob": 52710,
+            "actual_rpa_gob": 0,
+            "expenditure_gob": 95,
+            "expenditure_rpa_gob": 0
+          }
+        ]
+      }
+    ]
+  }
+]
